@@ -1,2 +1,3 @@
 # Cinoz
-A open source kernel
+A open source kernel beware you have to make the distro itself 
+
